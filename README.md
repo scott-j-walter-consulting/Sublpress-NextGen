@@ -1,7 +1,7 @@
 # Sublpress
 A Sublime Text 2/3 Plugin to manage WordPress websites. 
 
-This repo is a rebirth of the original Sublpress created by @brzrkr (https://github.com/brzrkr/Sublpress)
+This repo is a rebirth of the original Sublpress created by @brzrkr (https://github.com/brzrkr/Sublpress), which has also been forked (https://github.com/scott-j-walter-consulting/Sublpress-OG) for the same reason this fork was created (to evaluate the concept and code to determine the maintenance effort incurred by adoption ).
 
 ## Description
 
